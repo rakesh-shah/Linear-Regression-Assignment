@@ -22,7 +22,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Major Factors Influencing low rental demand​
+Major Factors Influencing rental demand​
 - High windspeed
 - High temperature
 - Light rain or snow
