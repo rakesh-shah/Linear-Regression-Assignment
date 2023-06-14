@@ -1,5 +1,5 @@
 # Project Name
-> Lending Club Case Study.
+> Linear regression Assignment.
 
 
 ## Table of Contents
@@ -13,37 +13,20 @@
 ## General Information
 - Provide general information about your project here.
 - What is the background of your project?
-  Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. 
+  So here we have been given a dataset which has the data related to a bike rental company called BoomBikes who wants some business related answers such as how would be the market after covid in respect to the demand and taste of the customer and what are the steps which they can take to meet all the requirements. 
 - What is the business probem that your project is trying to solve?
-  The company basically wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of   default.The company can utilize this knowledge for its portfolio and risk assessment.​
-  The main aim of this case study is to identify Risky Loan Applicants, thereby cutting down the amount of credit loss of the company.
+  The company basically wants to understand the driving factors (or driver variables) behind the business which they can use to prepare a solid strategy for their business how they should force back year on year from now to later after covid.​
 - What is the dataset that is being used?
   The dataset being used is the loan data which is in CSV format.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Major Factors Influencing Loan Defaults​
-- Higher Interest rate​
-- Higher Loan amount​
-- Lower Annual income​
-- More than 1 Public record of bankruptcies​
-- Unverified Verification status​
-- Home ownership status for "others", "rent" and "mortgage" categories​
-- Lower Grade Loans​
-- Higher Loan Tenure​
-- Top 5 states of applicant pool​
-- Small Business and renewable Energy Business.​
-
-Our Recommendations to Lending Club
-- Prioritize high grade loans.​​
-- Scrutinize purpose, state and public bankruptcy record.​​
-- Cap loan amounts beyond >20K where the charge off is higher.​​
-- Offer reduced repayment tenure less than 60 months.​​
-- Ensure verification is complete for all loans disbursed.​​
-- Provide loans to employees with experience between 1 - 10 years.​​
-- The sub grading system needs improvement to accurately show risk of default​​
-- Disbursement of Year end or holiday season loans must be avoided.​
+Major Factors Influencing low rental demand​
+- High windspeed
+- High temperature
+- Light rain or snow
+- Humidity​
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -54,15 +37,17 @@ Our Recommendations to Lending Club
 - Matplotlib
 - Seaborn
 - Python
+- Sklearn
+- Statsmodel
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by the defaults happening in the banking sector
+- This project was inspired by the requirement given by the BoomBike rental company
 
 
 ## Contact
-Created by [@shah_rakesh , @thisissagnik ] - feel free to contact us!
+Created by [@shah_rakesh ] - feel free to contact us!
 
 
 <!-- Optional -->
